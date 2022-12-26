@@ -13,3 +13,4 @@ y = input("두번째 숫자를 입력하세요 >>>")
 
 result = int(x) + int(y)
 print(result)
+
